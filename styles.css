@@ -294,3 +294,26 @@ section{
 .color{
   color: darkslategrey;
 }
+.yellower{
+  background-color: #fdd835;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  width: 35%;
+  padding: 20px;
+}
+.smaller{
+  width: 100%;
+  border: 0;
+  margin: 0;
+}
+.bit{
+  width: fit-content;
+}
+.git{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
